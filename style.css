@@ -140,7 +140,7 @@ button:hover {
   background: var(--bg-color);
   padding: 10px 20px;
   border-radius: 8px;
-  border: 1px solid #30363d
+  border: 1px solid #30363d;
 }
 
 .stat-number {
